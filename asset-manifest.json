@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kanbas/static/css/main.348c99de.chunk.css",
+    "main.js": "/kanbas/static/js/main.a43c4b44.chunk.js",
+    "main.js.map": "/kanbas/static/js/main.a43c4b44.chunk.js.map",
+    "runtime-main.js": "/kanbas/static/js/runtime-main.b540c1b3.js",
+    "runtime-main.js.map": "/kanbas/static/js/runtime-main.b540c1b3.js.map",
+    "static/js/2.4284eb36.chunk.js": "/kanbas/static/js/2.4284eb36.chunk.js",
+    "static/js/2.4284eb36.chunk.js.map": "/kanbas/static/js/2.4284eb36.chunk.js.map",
+    "static/js/3.9db891e8.chunk.js": "/kanbas/static/js/3.9db891e8.chunk.js",
+    "static/js/3.9db891e8.chunk.js.map": "/kanbas/static/js/3.9db891e8.chunk.js.map",
+    "index.html": "/kanbas/index.html",
+    "static/css/main.348c99de.chunk.css.map": "/kanbas/static/css/main.348c99de.chunk.css.map",
+    "static/js/2.4284eb36.chunk.js.LICENSE.txt": "/kanbas/static/js/2.4284eb36.chunk.js.LICENSE.txt",
+    "static/media/icon-version.c9a6b10b.png": "/kanbas/static/media/icon-version.c9a6b10b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b540c1b3.js",
+    "static/js/2.4284eb36.chunk.js",
+    "static/css/main.348c99de.chunk.css",
+    "static/js/main.a43c4b44.chunk.js"
+  ]
+}
